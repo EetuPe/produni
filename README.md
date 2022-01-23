@@ -15,13 +15,7 @@ A work-in-progress website built using NextJS and Tailwind CSS. The goal is to d
 * Print functionality to print timetable & tasks
 * Deployment to Vercel with a postbuild script
 
-## Preview
-
-Preview Produni live on [StackBlitz](http://stackblitz.com/):
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-## Alternatively you can compile the source code
+## View the project by compiling the source code
 
 Clone the repo into a directory of your choice however you like. (recommended gh)
 
