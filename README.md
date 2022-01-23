@@ -8,7 +8,6 @@ A work-in-progress website built using NextJS and Tailwind CSS. The goal is to d
 * JWT OAuth Tokens
 * Refresh token rotation
 * Tailwind CSS for design
-* 
 
 # Future plans
 * Connect React to MongoDB database
